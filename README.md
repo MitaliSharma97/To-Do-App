@@ -10,14 +10,6 @@ A complete todo application with all features.
 
 ---
 
-### Made with ❤️ by [Shaif Arfan](https://www.instagram.com/shaifarfan08/)
-
-Like my works and want to support me?
-
-<a href="https://www.buymeacoffee.com/shaifarfan08" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 162.75px !important;" ></a>
-
----
-
 ## Project Description
 
 In the project, we will be creating a Complete Todo Application with all features. We will do all the CRUD operations. We will use `React.js` and to manage our states, we will use `Redux`. Also we will learn to make simple animations using `Framer Motion`. This will be a complete `beginner` friendly app. Hope you enjoy it.
@@ -42,7 +34,7 @@ You can find all the starter files in `starter-files` branch. You can go to the 
 
 ## Getting Started
 
-The recommended way to get started with the project is to follow the [YouTube tutorial](https://youtu.be/W0Uf_xu350k). You will find all the step-by-step guides. Or you can start the project on your own by following the guide below.
+You can start the project on your own by following the guide below.
 
 After getting the starter files, you need to go the file directory and run
 
@@ -60,10 +52,6 @@ npm start
 
 1. Favicon: [Flaticon.com](https://www.flaticon.com/)
 1. Code Editor: [VS Code](https://code.visualstudio.com/)
-
-## Other projects
-
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
 
 ---
 
@@ -87,16 +75,5 @@ The project is for the people who wanna get more skilled in `ReactJs`.
 
 ---
 
-## Feedback
-
-If you have any feedback, please reach out to us at [@web_cifar](http://instagram.com/web_cifar)
-
-## Support
-
-For support, join our [Community Group](http://facebook.com/groups/webcifar).
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 
 Happy Coding! 🚀
